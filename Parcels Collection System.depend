@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1601621215 source:c:\users\acer_user\documents\[top] data struc and algorithms\project\parcels collection system\main.cpp
+	<iostream>
+	<fstream>
+	<limits>
+	"Locker.cpp"
+
+1601621428 c:\users\acer_user\documents\[top] data struc and algorithms\project\parcels collection system\locker.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<windows.h>
+	<ctime>
+	<limits>
+	"LockNumOutOfRange.h"
+
+1601123719 c:\users\acer_user\documents\[top] data struc and algorithms\project\parcels collection system\locknumoutofrange.h
+	<stdexcept>
+	<string>
+
+1601619253 source:c:\users\acer_user\documents\[top] data struc and algorithms\project\parcels collection system\locker.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<windows.h>
+	<ctime>
+	<limits>
+	"LockNumOutOfRange.h"
+
+1601622225 source:c:\users\acer_user\downloads\parcels collection system\locker.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<windows.h>
+	<ctime>
+	<limits>
+	"LockNumOutOfRange.h"
+
+1601123719 c:\users\acer_user\downloads\parcels collection system\locknumoutofrange.h
+	<stdexcept>
+	<string>
+
+1601621215 source:c:\users\acer_user\downloads\parcels collection system\main.cpp
+	<iostream>
+	<fstream>
+	<limits>
+	"Locker.cpp"
+
+1601622225 c:\users\acer_user\downloads\parcels collection system\locker.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<windows.h>
+	<ctime>
+	<limits>
+	"LockNumOutOfRange.h"
+
+1601622225 source:c:\users\acer_user\downloads\parcels collection system (source code)\locker.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<windows.h>
+	<ctime>
+	<limits>
+	"LockNumOutOfRange.h"
+
+1601123719 c:\users\acer_user\downloads\parcels collection system (source code)\locknumoutofrange.h
+	<stdexcept>
+	<string>
+
+1601622686 source:c:\users\acer_user\downloads\parcels collection system (source code)\main.cpp
+	<iostream>
+	<fstream>
+	<limits>
+	"Locker.cpp"
+
+1601622225 c:\users\acer_user\downloads\parcels collection system (source code)\locker.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<windows.h>
+	<ctime>
+	<limits>
+	"LockNumOutOfRange.h"
+
